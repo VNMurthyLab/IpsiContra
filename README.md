@@ -1,6 +1,4 @@
-# IpsiContra
-
-#Bilateral Alignment of Receptive Fields in the Olfactory Cortex Points to Non-Random Connectivity
+# Bilateral Alignment of Receptive Fields in the Olfactory Cortex Points to Non-Random Connectivity - Data and Code
 
 ## OVERVIEW
 

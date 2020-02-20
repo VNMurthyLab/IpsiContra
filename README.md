@@ -10,6 +10,7 @@ This folder contains all the Matlab data and code necessary to replicate the res
 
 Details on how each variable was calculated can be found in the Methods section of the article.
 If you use this code or data please cite the article mentioned above.
+The code for Hartigans dip tests were written by Ferenc Mechler (Mechler and Ringach, 2002). See  our manuscript for full citation.
 
 Below is a description of all the Matlab code and data files.
 Matlab version: R2016a.

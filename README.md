@@ -27,15 +27,14 @@ To run this code, keep the code files in the same folder as the data files.
 ### Figures 5, 6, S5, and S7
 
 The code corresponding to the decoding and modeling figures can be found in the folder called "decoding_and_modeling".
-To run this code, keep all the files from "decoding_and_modeling" in the same folder. Within this one folder, create a subfolder called "Data_and_Notes", in which you will need to add the following data files:
+To run this code, keep all files in the same folder. Within this one folder, create a subfolder called "Data_and_Notes", in which you will need to add the following data files:
 * SniffTime
 * SniffTimeOB
 * tetrodeRecordings_OC_2s
 * tetrode_recordings_formatted_for_alex_v2_ordered
-* tetrode_recordings_formatted_for_alex_v2_ob_ordered
+* tetrode_recordings_formatted_for_alex_v2_ordered_ob
 
-For details about the data files, see below.
-For more details and the decoding and modeling code, see the Readme.txt file inside the "decoding_and_modeling" folder.
+For more details and the decoding and modeling code, see Readme.txt inside the folder.
 
 ### Other Figures
 

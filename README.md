@@ -6,7 +6,7 @@ This folder contains all the Matlab data and code necessary to replicate the res
 
 * **Authors**: Grimaud J, Dorrell W, Pehlevan C, Murthy V.
 * **Title**: Bilateral Alignment of Receptive Fields in the Olfactory Cortex Points to Non-Random Connectivity.
-* **Published in** bioRxiv on [INSERT DATE].
+* **Published in** bioRxiv on February 25, 2020.
 
 Details on how each variable was calculated can be found in the Methods section of the article.
 If you use this code or data please cite the article mentioned above.
